@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\black\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\black\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_N3-2.1538907382.00" t="ExcludeRecursive" />
+    <e p="D:\Глеб\RiderProjects\N3-2" t="IncludeFlat">
+      <e p="N3-2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="JaggedArray.cs" t="Include" />
+        <e p="N3-2.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="OneDimArray.cs" t="Include" />
+        <e p="Parent.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="TwoDimArray.cs" t="Include" />
+      </e>
+      <e p="N3-2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
